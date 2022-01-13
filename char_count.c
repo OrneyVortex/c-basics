@@ -16,4 +16,4 @@ int main()
     printf("Total number of characters in a string: %d", count);  
    
     return 0;  
-}  
+}
