@@ -1,6 +1,7 @@
 #include<stdio.h>
 int main()
 {
+  
   int a[100],i,n,j,temp;
   printf("How many elemetns ");
   scanf("%d",&n);
